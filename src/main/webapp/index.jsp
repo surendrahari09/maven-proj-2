@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello Cloudearl!</h2>
+<h2>Hello Cloudrl!</h2>
 </body>
 </html>
